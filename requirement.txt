@@ -1,0 +1,11 @@
+#python == 3.8.19
+# Name                    Version                   Build  Channel
+cupy                      12.3.0           py38hcae7217_2    conda-forge
+einops                    0.7.0              pyhd8ed1ab_1    conda-forge
+matplotlib                3.7.3            py38h578d9bd_0    conda-forge
+numpy                     1.24.4           py38h59b608b_0    conda-forge
+opencv-python             4.9.0.80                 pypi_0    pypi
+pytorch                   2.2.2           py3.8_cuda12.1_cudnn8.9.2_0    pytorch
+pytorch-cuda              12.1                 ha16c6d3_5    pytorch
+torchvision               0.17.2               py38_cu121    pytorch
+torchsummary              1.5.1                    pypi_0    pypi
